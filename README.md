@@ -18,3 +18,4 @@
   * https://cssgridgarden.com/ (multi) - Изучение grid layout в виде игры, в которой нужно сажать морковку на грядки
 * GIT
   * https://learngitbranching.js.org/ (en/ru) – Изучение веток в гит
+  * https://githowto.com/ (multi) - Основы git
