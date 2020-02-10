@@ -16,6 +16,7 @@
 * CSS
   * https://flexboxfroggy.com/ (en) – Изучение flex в виде игры где нужно передвигать лягушек по полю
   * https://cssgridgarden.com/ (multi) - Изучение grid layout в виде игры, в которой нужно сажать морковку на грядки
+  * https://wattenberger.com/blog/css-cascade (en) - Объяснение CSS каскада с интерактивом 
 * GIT
   * https://learngitbranching.js.org/ (en/ru) – Изучение веток в гит
   * https://githowto.com/ (multi) - Основы git
