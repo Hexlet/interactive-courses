@@ -14,7 +14,7 @@
 ### Курсы 
 
 * CSS
-  * https://flexboxfroggy.com/ (en) – Изучение flex в виде игры где нужно передвигать лягушек по полю
+  * https://flexboxfroggy.com/ (multi) – Изучение flex в виде игры где нужно передвигать лягушек по полю
   * https://cssgridgarden.com/ (multi) - Изучение grid layout в виде игры, в которой нужно сажать морковку на грядки
 * GIT
   * https://learngitbranching.js.org/ (en/ru) – Изучение веток в гит
