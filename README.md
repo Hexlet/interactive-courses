@@ -15,6 +15,7 @@
 
 * CSS
   * https://flexboxfroggy.com/ (multi) – Изучение flex в виде игры где нужно передвигать лягушек по полю
+  * http://www.flexboxdefense.com/ (en) - Изучение flex в виде игры Tower Defence
   * https://cssgridgarden.com/ (multi) - Изучение grid layout в виде игры, в которой нужно сажать морковку на грядки
   * https://wattenberger.com/blog/css-cascade (en) - Объяснение CSS каскада с интерактивом 
 * GIT
