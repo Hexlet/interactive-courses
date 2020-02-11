@@ -18,6 +18,8 @@
   * http://www.flexboxdefense.com/ (en) - Изучение flex в виде игры Tower Defence
   * https://cssgridgarden.com/ (multi) - Изучение grid layout в виде игры, в которой нужно сажать морковку на грядки
   * https://wattenberger.com/blog/css-cascade (en) - Объяснение CSS каскада с интерактивом 
+* HTML
+  * https://markup.roppychop.com/ - Платформер, в котором необходимо расставлять HTML теги, чтобы выполнить задачу. [Продолжение в виде отдельной игры](https://store.steampowered.com/app/502210/Super_Markup_Man/)
 * GIT
   * https://learngitbranching.js.org/ (en/ru) – Изучение веток в гит
   * https://githowto.com/ (multi) - Основы git
