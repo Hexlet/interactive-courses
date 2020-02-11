@@ -21,3 +21,5 @@
 * GIT
   * https://learngitbranching.js.org/ (en/ru) – Изучение веток в гит
   * https://githowto.com/ (multi) - Основы git
+* VIM
+  * https://vim-adventures.com/ (en) - Интерактивная игра обучающая управлению в VIM
