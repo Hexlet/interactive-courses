@@ -23,5 +23,11 @@
 * GIT
   * https://learngitbranching.js.org/ (en/ru) – Изучение веток в гит
   * https://githowto.com/ (multi) - Основы git
+
+
+### Игры для программистов
+
+* JavaScript
+  * http://play.elevatorsaga.com/ (en) - Программируем поведелие лифтов внутри симуляции
 * VIM
   * https://vim-adventures.com/ (en) - Интерактивная игра обучающая управлению в VIM
