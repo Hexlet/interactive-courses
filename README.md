@@ -14,10 +14,17 @@
 ### Курсы 
 
 * CSS
+  * https://flexboxfroggy.com/ (multi) – Изучение flex в виде игры где нужно передвигать лягушек по полю
+  * http://www.flexboxdefense.com/ (en) - Изучение flex в виде игры Tower Defence
+  * https://cssgridgarden.com/ (multi) - Изучение grid layout в виде игры, в которой нужно сажать морковку на грядки
   * https://wattenberger.com/blog/css-cascade (en) - Объяснение CSS каскада с интерактивом 
+* HTML
+  * https://markup.roppychop.com/ - Платформер, в котором необходимо расставлять HTML теги, чтобы выполнить задачу. [Продолжение в виде отдельной игры](https://store.steampowered.com/app/502210/Super_Markup_Man/)
 * GIT
   * https://learngitbranching.js.org/ (en/ru) – Изучение веток в гит
   * https://githowto.com/ (multi) - Основы git
+* VIM
+  * https://vim-adventures.com/ (en) - Интерактивная игра обучающая управлению в VIM
 
 
 ### Задачники
@@ -30,11 +37,3 @@
 
 * JavaScript
   * http://play.elevatorsaga.com/ (en) - Программируем поведелие лифтов внутри симуляции
-* VIM
-  * https://vim-adventures.com/ (en) - Интерактивная игра обучающая управлению в VIM
-* HTML
-  * https://markup.roppychop.com/ - Платформер, в котором необходимо расставлять HTML теги, чтобы выполнить задачу. [Продолжение в виде отдельной игры](https://store.steampowered.com/app/502210/Super_Markup_Man/)
-* CSS
-  * https://flexboxfroggy.com/ (multi) – Изучение flex в виде игры где нужно передвигать лягушек по полю
-  * http://www.flexboxdefense.com/ (en) - Изучение flex в виде игры Tower Defence
-  * https://cssgridgarden.com/ (multi) - Изучение grid layout в виде игры, в которой нужно сажать морковку на грядки
