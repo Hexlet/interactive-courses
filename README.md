@@ -16,6 +16,8 @@
 * Ruby
   * https://rubymonk.com/ (en) – Интерактивный курс по Ruby
   * https://www.bloc.io/ruby-warrior (en) – Изучение Ruby в виде игры (требуется учётная запись в Facebook)
+* JavaScript
+  * https://scrimba.com/ (en) – Сборник интерактивных курсов, где видео совмещено с редактором кода. Можно в любое время поставить на паузу и поэксперементировать с кодом учителя. (JavaScript, TypeScript, CSS, HTML)
 * CSS
   * https://flexboxfroggy.com/ (multi) – Изучение flex в виде игры, где нужно передвигать лягушек по полю
   * http://www.flexboxdefense.com/ (en) – Изучение flex в виде игры Tower Defence
@@ -32,6 +34,7 @@
 
 ### Задачники
 
+* https://www.katacoda.com/learn (en) – Хороший набор интерактивных сценариев(заданий) и "песочниц" (Docker, Kubernetes, Terraform, Git, Ruby и многое другое)
 * https://www.codewars.com/ (en) – Большой сборник задач, которые можно решать online на разных языках программирования
 * https://exercism.io/ (en) – Специально подобранные наборы задач (learning tracks) для практики на разных языках. Задачи решаются offline. Решение загружаетя на сайт и проверяется. Можно бесплатно получить обратную связь от ментора или сообщества. 
 * https://checkio.org/ (en) – Сборник заданий разных уровней сложности для изучения Python и Javascript
@@ -51,4 +54,3 @@
 
 * https://explainshell.com/ (en) – Разбирает введённую консольную комманду и описывает все её части.
 * https://crontab.guru/ (en) – Помагает разобраться в настройке времени запуска команды в cron
-
