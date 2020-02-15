@@ -13,8 +13,11 @@
 
 ### Курсы 
 
+* Ruby
+  * https://rubymonk.com/ (en) – Интерактивный курс по Ruby
+  * https://www.bloc.io/ruby-warrior (en) – Изучение Ruby в виде игры (требуется учётная запись в Facebook)
 * CSS
-  * https://flexboxfroggy.com/ (multi) – Изучение flex в виде игры где нужно передвигать лягушек по полю
+  * https://flexboxfroggy.com/ (multi) – Изучение flex в виде игры, где нужно передвигать лягушек по полю
   * http://www.flexboxdefense.com/ (en) – Изучение flex в виде игры Tower Defence
   * https://cssgridgarden.com/ (multi) – Изучение grid layout в виде игры, в которой нужно сажать морковку на грядки
   * https://wattenberger.com/blog/css-cascade (en) – Объяснение CSS каскада с интерактивом 
@@ -31,6 +34,7 @@
 
 * https://www.codewars.com/ (en) – Большой сборник задач, которые можно решать online на разных языках программирования
 * https://exercism.io/ (en) – Специально подобранные наборы задач (learning tracks) для практики на разных языках. Задачи решаются offline. Решение загружаетя на сайт и проверяется. Можно бесплатно получить обратную связь от ментора или сообщества. 
+* https://checkio.org/ (en) – Сборник заданий разных уровней сложности для изучения Python и Javascript
 * http://www.sql-ex.ru/ (ru) – Сборник заданий по написанию SQL-запросов
 
 
