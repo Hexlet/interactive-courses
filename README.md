@@ -15,9 +15,10 @@
 
 * Ruby
   * https://rubymonk.com/ (en) – Интерактивный курс по Ruby
-  * https://www.bloc.io/ruby-warrior (en) – Изучение Ruby в виде игры (требуется учётная запись в Facebook)
+  * https://www.bloc.io/ruby-warrior (en) – Изучение Ruby через игру. Персонаж управляется кодом. Требуется учётная запись в Facebook.
 * JavaScript
   * https://scrimba.com/ (en) – Сборник интерактивных курсов, где видео совмещено с редактором кода. Можно в любое время поставить на паузу и поэксперементировать с кодом учителя. (JavaScript, TypeScript, CSS, HTML)
+  * https://warriorjs.com/ (en) – Изучение JavaScript через игру. Персонаж управляется кодом.
 * CSS
   * https://flexboxfroggy.com/ (multi) – Изучение flex в виде игры, где нужно передвигать лягушек по полю
   * http://www.flexboxdefense.com/ (en) – Изучение flex в виде игры Tower Defence
