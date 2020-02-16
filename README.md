@@ -31,6 +31,7 @@
   * https://githowto.com/ (multi) – Основы git
 * VIM
   * https://vim-adventures.com/ (en) – Интерактивная игра обучающая управлению в VIM
+  * https://www.openvim.com/ (en) - Интерактивное руководство по VIM
 
 
 ### Задачники
