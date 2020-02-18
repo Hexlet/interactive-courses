@@ -23,7 +23,8 @@
   * https://flexboxfroggy.com/ (multi) – Изучение flex в виде игры, где нужно передвигать лягушек по полю
   * http://www.flexboxdefense.com/ (en) – Изучение flex в виде игры Tower Defence
   * https://cssgridgarden.com/ (multi) – Изучение grid layout в виде игры, в которой нужно сажать морковку на грядки
-  * https://wattenberger.com/blog/css-cascade (en) – Объяснение CSS каскада с интерактивом 
+  * https://wattenberger.com/blog/css-cascade (en) – Объяснение CSS каскада с интерактивом
+  * https://mastery.games/p/flexbox-zombies (en) - Изучение flex в виде игры про зомби-апокалипсис. Игра повествует историю мальчика и его ментора, которые выживают в мире полном зомби. В основе игры качественное визуальное оформление и сюжет. Обучение строится через практику flex свойств в контексте основго сюжета игры. Также исполльзуется система интервальных повторений (spaced repetition). 
 * HTML
   * https://markup.roppychop.com/ – Платформер, в котором необходимо расставлять HTML теги, чтобы выполнить задачу. [Продолжение в виде отдельной игры](https://store.steampowered.com/app/502210/Super_Markup_Man/)
 * GIT
