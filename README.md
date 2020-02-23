@@ -17,7 +17,11 @@
   * https://rubymonk.com/ (en) – Интерактивный курс по Ruby
   * https://www.bloc.io/ruby-warrior (en) – Изучение Ruby через игру. Персонаж управляется кодом. Требуется учётная запись в Facebook.
 * JavaScript
+  * http://www.crunchzilla.com/ - простые уроки программирования на JS через рисование.
   * https://warriorjs.com/ (en) – Изучение JavaScript через игру. Персонаж управляется кодом.
+  * https://lab.reaal.me/jsrobot/ - Программирование робота.
+  * https://jsfight.club/ - Участвуй в боях, программируя персонажей через js
+  * http://codegames.io/ - Есть космический корабль, необходимо его запрограммировать и победить всех
 * CSS
   * https://flexboxfroggy.com/ (multi) – Изучение flex в виде игры, где нужно передвигать лягушек по полю
   * http://www.flexboxdefense.com/ (en) – Изучение flex в виде игры Tower Defence
@@ -26,6 +30,7 @@
   * https://mastery.games/p/flexbox-zombies (en) - Изучение flex в виде игры про зомби-апокалипсис. Игра повествует историю мальчика и его ментора, которые выживают в мире полном зомби. В основе игры качественное визуальное оформление и сюжет. Обучение строится через практику flex свойств в контексте основго сюжета игры. Также исполльзуется система интервальных повторений (spaced repetition). 
 * HTML
   * https://markup.roppychop.com/ – Платформер, в котором необходимо расставлять HTML теги, чтобы выполнить задачу. [Продолжение в виде отдельной игры](https://store.steampowered.com/app/502210/Super_Markup_Man/)
+  * https://eraseallkittens.com/ - Платформер, в котором нужно помочь котику расставлять теги, чтобы пройти игру.
 * GIT
   * https://learngitbranching.js.org/ (en/ru) – Изучение веток в гит
   * https://githowto.com/ (multi) – Основы git
