@@ -65,3 +65,4 @@
 * https://crontab.guru/ (en) – Помагает разобраться в настройке времени запуска команды в cron
 * https://gitexplorer.com/ (en) – Подсказывает git команду исходя из описания задачи
 * https://devhints.io/ (en) - Подсказки по разным языкам и технологиям
+* https://ndpsoftware.com/git-cheatsheet.html/ (en) - Интерактивная шпаргалка по командам Git
