@@ -71,3 +71,4 @@
 * https://gitexplorer.com/ (en) – Подсказывает git команду исходя из описания задачи
 * https://devhints.io/ (en) - Подсказки по разным языкам и технологиям
 * https://ndpsoftware.com/git-cheatsheet.html (en) - Интерактивная шпаргалка по командам Git
+* http://www.pythontutor.com/ (en) - Визуализация выполнения кода по шагам для Python, Java, C, C++, JavaScript, Ruby.
