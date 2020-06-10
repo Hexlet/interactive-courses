@@ -13,34 +13,34 @@
 
 ### Курсы 
 
-* Ruby
+#### Ruby
   * https://rubymonk.com/ (en) – Интерактивный курс по Ruby
   * https://www.bloc.io/ruby-warrior (en) – Изучение Ruby через игру. Персонаж управляется кодом. Требуется учётная запись в Facebook.
-* JavaScript
+#### JavaScript
   * http://www.crunchzilla.com/ (en) - Простые уроки программирования на JS через рисование.
   * https://warriorjs.com/ (en) – Изучение JavaScript через игру. Персонаж управляется кодом.
   * https://lab.reaal.me/jsrobot/ (en) - Программирование робота.
   * https://jsfight.club/ (en) - Участвуй в боях, программируя персонажей через js
   * http://codegames.io/ (en) - Есть космический корабль, необходимо его запрограммировать и победить всех
-* CSS
+#### CSS
   * https://flexboxfroggy.com/ (multi) – Изучение flex в виде игры, где нужно передвигать лягушек по полю
   * http://www.flexboxdefense.com/ (en) – Изучение flex в виде игры Tower Defence
   * https://cssgridgarden.com/ (multi) – Изучение grid layout в виде игры, в которой нужно сажать морковку на грядки
   * https://wattenberger.com/blog/css-cascade (en) – Объяснение CSS каскада с интерактивом
   * https://mastery.games/p/flexbox-zombies (en) - Изучение flex в виде игры про зомби-апокалипсис. Игра повествует историю мальчика и его ментора, которые выживают в мире полном зомби. В основе игры качественное визуальное оформление и сюжет. Обучение строится через практику flex свойств в контексте основго сюжета игры. Также исполльзуется система интервальных повторений (spaced repetition). 
   * https://flukeout.github.io/ (en) - Простенькая игра, позволяющая освоить основы CSS. Необходимо выбирать определенные предметы со стола с помощью CSS.
-* HTML
+#### HTML
   * https://markup.roppychop.com/ (en) – Платформер, в котором необходимо расставлять HTML теги, чтобы выполнить задачу. [Продолжение в виде отдельной игры](https://store.steampowered.com/app/502210/Super_Markup_Man/)
   * https://eraseallkittens.com/ (en) - Платформер, в котором нужно помочь котику расставлять теги, чтобы пройти игру.
-* GIT
+#### GIT
   * https://learngitbranching.js.org/ (en/ru) – Изучение веток в гит
   * https://githowto.com/ (multi) – Основы git
-* VIM
+#### VIM
   * https://vim-adventures.com/ (en) – Интерактивная игра обучающая управлению в VIM
   * https://www.openvim.com/ (en) - Интерактивное руководство по VIM
-* DevOps
+#### DevOps
   * https://kodekloud.com/ (en) - Курсы + Интерактивная практика на engineer.kodekloud.com. Вы будете работать в придуманной компании системным администратором. Вам будут даваться различные задачи с возрастающей сложностью. По мере их завершения, вы будете повышаться в должности, вплоть до DevOps Architect.
-* Scala
+#### Scala
   * https://www.scala-exercises.org (en) - Изучение Scala и ее основных библиотек
 
 ### Задачники
@@ -56,9 +56,9 @@
 
 ### Игры для разработчиков
 
-* JavaScript
+#### JavaScript
   * http://play.elevatorsaga.com/ (en) – Программируем поведелие лифтов внутри симуляции
-* Computer Science
+#### Computer Science
   * https://deadlockempire.github.io/ (en) – Игра про многопоточное программирование. Нужно пошагово выполнять несколько параллельных потоков, чтобы сломать программу
   * https://david-peter.de/cube-composer (en) – Игра вдохновленная функциональным программированием (композиция функций, map, filter). Надо расставить функции в нужном порядке, чтобы преобразовать картинку, состоящую из разноцветных кубов.
   * https://www.codingame.com/ (en) - Учебно - игровая платформа для программистов
