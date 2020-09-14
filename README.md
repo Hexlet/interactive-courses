@@ -1,5 +1,5 @@
-
-go](https://raw.githubusercontent.com/Hexlet/hexletguides.github.io/master/images/hexlet_logo128.png)](https://ru.hexlet.io/pages/about?utm_source=github&utm_medium=link&utm_campaign=interactive-courses)
+##
+[![Hexlet Ltd. logo](https://raw.githubusercontent.com/Hexlet/hexletguides.github.io/master/images/hexlet_logo128.png)](https://ru.hexlet.io/pages/about?utm_source=github&utm_medium=link&utm_campaign=interactive-courses)
 
 Данный репозиторий создан и поддерживается командой и сообществом образовательного проекта _Хекслет_. [Подробнее о проекте](https://ru.hexlet.io/pages/about?utm_source=github&utm_medium=link&utm_campaign=interactive-courses).
 ##
@@ -35,6 +35,9 @@ go](https://raw.githubusercontent.com/Hexlet/hexletguides.github.io/master/image
 #### GIT
 * https://learngitbranching.js.org/ (en/ru) – Изучение веток в гит
 * https://githowto.com/ (multi) – Основы git
+* https://lab.github.com/ (en) - Классные и интерактивные курсы от GitHub.
+* https://github.com/jlord/git-it-electron#what-to-install (en) - Приложение, которое помогает создать первый репозиторий. Потом сделать форк, внести в него изменения и отпрвить pull request.
+* https://github.com/git-game (en) - Очень необычный квест в двух частях на знание/изучение git'a. Клонируем репозиторий и читаем README файл. В котором содержится первая загадка. Для решения надо просто применить правильные команды в консоли.
 #### VIM
 * https://vim-adventures.com/ (en) – Интерактивная игра обучающая управлению в VIM
 * https://www.openvim.com/ (en) - Интерактивное руководство по VIM
