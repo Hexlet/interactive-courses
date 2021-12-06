@@ -41,6 +41,11 @@
 #### VIM
 * https://vim-adventures.com/ (en) – Интерактивная игра обучающая управлению в VIM
 * https://www.openvim.com/ (en) - Интерактивное руководство по VIM
+#### ASM
+- [Human Resource Machine](http://tomorrowcorporation.com/humanresourcemachine) - Паззл-игра введение в ассемблер.
+- [7 billion humans](http://tomorrowcorporation.com/7billionhumans) - Продолжение Human Resource Machine, мультипроцессорный ассемблер.
+- [TIS-100](https://www.zachtronics.com/tis-100/) - Параллельный ассемблер для вымышленного компьютера.
+- [Shenzhen I/O](https://www.zachtronics.com/shenzhen-io/) - Игра, где нужно разводить платы и программировать их на ассемблере.
 #### DevOps
 * https://kodekloud.com/ (en) - Курсы + Интерактивная практика на engineer.kodekloud.com. Вы будете работать в придуманной компании системным администратором. Вам будут даваться различные задачи с возрастающей сложностью. По мере их завершения, вы будете повышаться в должности, вплоть до DevOps Architect.
 #### Scala
