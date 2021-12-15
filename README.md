@@ -17,11 +17,12 @@
 * https://rubymonk.com/ (en) – Интерактивный курс по Ruby
 * https://www.bloc.io/ruby-warrior (en) – Изучение Ruby через игру. Персонаж управляется кодом. Требуется учётная запись в Facebook.
 #### JavaScript
-* http://www.crunchzilla.com/ (en) - Простые уроки программирования на JS через рисование.
+* http://www.crunchzilla.com/ (en) – Простые уроки программирования на JS через рисование.
 * https://warriorjs.com/ (en) – Изучение JavaScript через игру. Персонаж управляется кодом.
-* https://lab.reaal.me/jsrobot/ (en) - Программирование робота.
-* https://jsfight.club/ (en) - Участвуй в боях, программируя персонажей через js
-* http://codegames.io/ (en) - Есть космический корабль, необходимо его запрограммировать и победить всех
+* https://lab.reaal.me/jsrobot/ (en) – Программирование робота.
+* https://jsfight.club/ (en) – Участвуй в боях, программируя персонажей через js
+* http://codegames.io/ (en) – Есть космический корабль, необходимо его запрограммировать и победить всех
+* https://alexnisnevich.github.io/untrusted/ (en) – roguelike-игра с головоломками на js
 #### CSS
 * https://flexboxfroggy.com/ (multi) – Изучение flex в виде игры, где нужно передвигать лягушек по полю
 * http://www.flexboxdefense.com/ (en) – Изучение flex в виде игры Tower Defence
