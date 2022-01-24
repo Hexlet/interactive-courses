@@ -49,6 +49,7 @@
 - [Shenzhen I/O](https://www.zachtronics.com/shenzhen-io/) - Игра, где нужно разводить платы и программировать их на ассемблере.
 #### DevOps
 * https://kodekloud.com/ (en) - Курсы + Интерактивная практика на engineer.kodekloud.com. Вы будете работать в придуманной компании системным администратором. Вам будут даваться различные задачи с возрастающей сложностью. По мере их завершения, вы будете повышаться в должности, вплоть до DevOps Architect.
+* https://labs.play-with-k8s.com/ (en) - Интерактивная игровая площадка для изучения Kubernetes.
 #### Scala
 * https://www.scala-exercises.org (en) - Изучение Scala и ее основных библиотек
 
