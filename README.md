@@ -1,11 +1,3 @@
-##
-[![Hexlet Ltd. logo](https://raw.githubusercontent.com/Hexlet/assets/master/images/hexlet_logo128.png)](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=interactive-courses)
-
-This repository is created and maintained by the team and the community of Hexlet, an educational project. [Read more about Hexlet](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=interactive-courses).
-
-See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
-
-
 ### Список небольших интерактивных курсов (игровых) по разным направлениям
 
 ### Как помочь?
@@ -109,3 +101,22 @@ https://returntrue.win/ (en) - Прикольный набор головоло�
 * https://www.typingstudy.com/ (multi) - курсы по слепой печати на 100+ различных языках и раскладках. Для сохранения прогресса необходима регистрация
 * https://typerun.top/ (multi) - простое приложение с небольшим набором упражнений разных уровней сложности на 4-х языках, включая слепую печать на языках программирования (JS, Python, Go и пр.)
 * https://klavogonki.ru (multi) - управляй гоночной машинкой и приезжай к финишу первым! Игровое приложение для нескучной прокачки скорости печати. Можно создавать закрытые заезды и тренироваться с друзьями. Либо со случайными игроками
+
+## 
+
+<p align="center">
+  <a href="https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=hexlet-assets">
+    <img src="https://raw.githubusercontent.com/Hexlet/assets/master/images/hexlet_logo.svg" alt="Hexlet Ltd. logo" height="128">
+  </a>
+</p>
+
+<h3 align="center">Hexlet</h3>
+
+<p align="center">
+  This repository is created and maintained by the team and the community of Hexlet, an educational project.
+  <br>
+  <a href="https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=hexlet-assets"><strong>Read more about Hexlet »</strong></a>
+  <br>
+  <br>
+  See most active contributors on <a href="https://friends.hexlet.io/">hexlet-friends</a>
+</p>
