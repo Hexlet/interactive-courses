@@ -46,6 +46,8 @@
 * https://labs.play-with-k8s.com/ (en) - Интерактивная игровая площадка для изучения Kubernetes.
 #### Scala
 * https://www.scala-exercises.org (en) - Изучение Scala и ее основных библиотек
+#### Markdown
+* [Markdown Tutorial](https://commonmark.org/help/tutorial/index.html) (en) - интерактивное руководство по Markdown.
 
 ### Задачники
 
