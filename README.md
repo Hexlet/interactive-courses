@@ -48,6 +48,8 @@
 * https://www.scala-exercises.org (en) - Изучение Scala и ее основных библиотек
 #### Markdown
 * [Markdown Tutorial](https://commonmark.org/help/tutorial/index.html) (en) - интерактивное руководство по Markdown.
+#### SQL
+* https://sql-academy.org/ru (ru) - Пошаговый интерактивный курс по SQL с практическими заданиями.
 
 ### Задачники
 
