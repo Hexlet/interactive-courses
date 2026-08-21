@@ -1,17 +1,47 @@
-### Список небольших интерактивных курсов (игровых) по разным направлениям
+<div align="center">
 
-### Как помочь?
+<a href="https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=interactive-courses">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hexlet/brand-assets/master/images/svg/hexlet_wordmark_white_rus.svg">
+        <img src="https://raw.githubusercontent.com/Hexlet/brand-assets/master/images/svg/hexlet_wordmark_primary_rus.svg" alt="Хекслет" height="64">
+    </picture>
+</a>
 
-Мы принимаем Pull Request'ы!
+# Интерактивные курсы, тренажёры и игры
 
-### Курсы
+**Более 80 бесплатных тренажёров, задачников и игр** — Git, SQL, CSS, регулярные выражения,
+консоль, ассемблер и слепая печать.
 
-#### Ruby
+Всё, что учит практикой прямо в браузере, а не видео. Здесь найдут своё и разработчик,
+и аналитик, и тестировщик, и админ — а слепая печать пригодится всем.
+
+[![PR welcome](https://img.shields.io/badge/pull_request-welcome-brightgreen?style=flat-square)](#как-помочь)
+[![Хекслет](https://img.shields.io/badge/обучение-Хекслет-116dff?style=flat-square)](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=interactive-courses)
+[![Telegram](https://img.shields.io/badge/сообщество-Telegram-26A5E4?style=flat-square)](https://t.me/hexletcommunity)
+
+</div>
+
+Список создан и поддерживается командой и сообществом [Хекслета](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=interactive-courses) —
+образовательного проекта.
+
+> [!TIP]
+> Тренажёр даёт беглость в одной теме, но не профессию целиком. Системное обучение с наставником
+> и проектами — на [Хекслете](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=interactive-courses),
+> а обсудить, что из списка стоит времени, можно в открытом
+> [Telegram-сообществе](https://t.me/hexletcommunity).
+
+## Как помочь?
+
+Мы принимаем pull-request'ы.
+
+## Курсы
+
+### Ruby
 
 * https://rubymonk.com/ (en) – Интерактивный курс по Ruby
 * https://www.bloc.io/ruby-warrior (en) – Изучение Ruby через игру. Персонаж управляется кодом. Требуется учётная запись в Facebook.
 
-#### JavaScript
+### JavaScript
 
 * http://www.crunchzilla.com/ (en) – Простые уроки программирования на JS через рисование.
 * https://warriorjs.com/ (en) – Изучение JavaScript через игру. Персонаж управляется кодом.
@@ -20,7 +50,7 @@
 * http://codegames.io/ (en) – Есть космический корабль, необходимо его запрограммировать и победить всех
 * https://alexnisnevich.github.io/untrusted/ (en) – roguelike-игра с головоломками на js
 
-#### CSS
+### CSS
 
 * https://flexboxfroggy.com/ (multi) – Изучение flex в виде игры, где нужно передвигать лягушек по полю
 * http://www.flexboxdefense.com/ (en) – Изучение flex в виде игры Tower Defence
@@ -29,12 +59,12 @@
 * https://mastery.games/flexboxzombies/ (en) - Изучение flex в виде игры про зомби-апокалипсис. Игра повествует историю мальчика и его ментора, которые выживают в мире полном зомби. В основе игры качественное визуальное оформление и сюжет. Обучение строится через практику flex свойств в контексте основного сюжета игры. Также используется система интервальных повторений (spaced repetition).
 * https://flukeout.github.io/ (en) - Простенькая игра, позволяющая освоить основы CSS. Необходимо выбирать определенные предметы со стола с помощью CSS.
 
-#### HTML
+### HTML
 
 * https://markup.roppychop.com/ (en) – Платформер, в котором необходимо расставлять HTML теги, чтобы выполнить задачу. [Продолжение в виде отдельной игры](https://store.steampowered.com/app/502210/Super_Markup_Man/)
 * https://eraseallkittens.com/ (en) - Платформер, в котором нужно помочь котику расставлять теги, чтобы пройти игру.
 
-#### Git
+### Git
 
 * https://learngitbranching.js.org/ (en/ru) – Изучение веток в гит
 * https://githowto.com/ (multi) – Основы git
@@ -43,38 +73,38 @@
 * https://github.com/git-game (en) - Очень необычный квест в двух частях на знание/изучение git'a. Клонируем репозиторий и читаем README файл. В котором содержится первая загадка. Для решения надо просто применить правильные команды в консоли.
 * https://ohmygit.org/ (en) - Полноценная игра с визуализацией происходящего. Работает локально на Linux/macOS/Windows, требует скачивания бинарника.
 
-#### VIM
+### VIM
 
 * https://vim-adventures.com/ (en) – Интерактивная игра обучающая управлению в VIM
 * https://www.openvim.com/ (en) - Интерактивное руководство по VIM
 * https://github.com/renzorlive/vimmaster (en) - Ещё одна игра по азам управления в VIM
 
-#### ASM
+### ASM
 
 - [Human Resource Machine](http://tomorrowcorporation.com/humanresourcemachine) - Паззл-игра введение в ассемблер.
 - [7 billion humans](http://tomorrowcorporation.com/7billionhumans) - Продолжение Human Resource Machine, мультипроцессорный ассемблер.
 - [TIS-100](https://www.zachtronics.com/tis-100/) - Параллельный ассемблер для вымышленного компьютера.
 - [Shenzhen I/O](https://www.zachtronics.com/shenzhen-io/) - Игра, где нужно разводить платы и программировать их на ассемблере.
 
-#### DevOps
+### DevOps
 
 * https://kodekloud.com/ (en) - Курсы + Интерактивная практика на engineer.kodekloud.com. Вы будете работать в придуманной компании системным администратором. Вам будут даваться различные задачи с возрастающей сложностью. По мере их завершения, вы будете повышаться в должности, вплоть до DevOps Architect.
 * https://labs.play-with-k8s.com/ (en) - Интерактивная игровая площадка для изучения Kubernetes.
 * https://eksclustergames.com/ (en) - Вы взломали низкопривилегированный под AWS EKS. Используйте веб-терминал, чтобы найти флаги в окружении. Каждая задача выполняется в разных пространствах имен Kubernetes с разными правами.
 
-#### Scala
+### Scala
 
 * https://www.scala-exercises.org (en) - Изучение Scala и ее основных библиотек
 
-#### Markdown
+### Markdown
 
 * [Markdown Tutorial](https://commonmark.org/help/tutorial/index.html) (en) - интерактивное руководство по Markdown.
 
-#### Хакинг
+### Хакинг
 
 * [Hacksplaining](https://www.hacksplaining.com/lessons) (en) - через интерактивные уроки наглядно объясняются основные веб-уязвимости. Каждый урок включает геймифицированную демонстрацию атак и стратегии их устранения.
 
-### Задачники
+## Задачники
 
 * https://codebattle.hexlet.io/ (multi) – Задачки разного уровня сложности для разработчиков. Напишите код быстрее, чем ваш оппонент, используя свой любимый язык.
 * https://www.codewars.com/ (en) – Большой сборник задач, которые можно решать online на разных языках программирования
@@ -90,9 +120,9 @@
 * https://github.com/type-challenges/type-challenges (en) - Набор челленджей по системе типов TypeScript. Можно проходить и онлайн и локально.
 * https://github.com/laike9m/Python-Type-Challenges (en) - Набор челленджей по системе типов Python. Можно проходить и онлайн и локально.
 
-### Игры для разработчиков
+## Игры для разработчиков
 
-#### PHP
+### PHP
 
 https://returntrue.win/ (en) - Прикольный набор головоломок из 16 уровней. Сложность возрастает постепенно. Для идеального решения нужно применять некоторые фишки/трюки языка. [Официальная документация в помощь](https://www.php.net/docs.php)
 <details>
@@ -108,26 +138,26 @@ https://returntrue.win/ (en) - Прикольный набор головоло�
 
 </details>
 
-#### JavaScript
+### JavaScript
 
 * http://play.elevatorsaga.com/ (en) – Программируем поведение лифтов внутри симуляции
 * https://screeps.com/ (en) – полноценная MMO-стратегия, в которой нужно программировать колонию-поселение и захватывать новые ресурсы и земли. Игра с открытым исходным кодом. Пишется реальный код (не псевдо) и ты можешь использовать либы из реальных проектов.
 
-#### CSS
+### CSS
 
 * https://cssbattle.dev/ (en) – CSSBattle - [code-golf](https://en.wikipedia.org/wiki/Code_golf) игра для CSS. Есть мишени, которые нужно воспроизвести в CSS (или HTML) в минимально возможном коде. Больше совпадений и меньше кода принесут больше очков.
-#### Python
+### Python
 
 * https://www.codemonkey.com/ (en) – Онлайн-платформа, которая обучает детей реальным языкам программирования таким как CoffeeScript и Python. Дети и подростки изучают кодинг на основе блоков и текста в игровом формате.
 
-#### Computer Science
+### Computer Science
 
 * https://deadlockempire.github.io/ (en) – Игра про многопоточное программирование. Нужно пошагово выполнять несколько параллельных потоков, чтобы сломать программу
 * https://david-peter.de/cube-composer (en) – Игра вдохновленная функциональным программированием (композиция функций, map, filter). Надо расставить функции в нужном порядке, чтобы преобразовать картинку, состоящую из разноцветных кубов.
 * https://www.codingame.com/ (en) – Учебно - игровая платформа для программистов
 * https://codecombat.com/ (multi) – Игра по обучению программированию с нуля, где код является заклинаниями или действиями героя.
 
-#### SQL
+### SQL
 
 * https://mystery.knightlab.com/ (en) - Обучающая игра SQL Murder Mystery. Становимся детективом и расследуем убийство командами SQL, посылая запросы к таблицам и базам данным.
 
@@ -143,22 +173,22 @@ https://returntrue.win/ (en) - Прикольный набор головоло�
 
 * https://dbquacks.com/ (en) - DBQuacks - игра-туториал по SQL c уточками.
 
-#### Регулярные выражения
+### Регулярные выражения
 
 * https://www.therobinlord.com/projects/slash-escape - текстовая обучающая игра по regex выражениям.
 
-#### Shell
+### Shell
 
 * [Terminus](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html) (en) - браузерная игра от MIT, где игрок изучает команды, перемещаясь по виртуальному миру и обучаясь в Академии Волшебства.
 
-#### C++
+### C++
 
 * http://www.ceebot.com/ceebot/index-e.php (en) – Изучайте программирование, развлекаясь. Язык программирования, который вы будете использовать, очень похож на тот, который используют профессиональные программисты для разработки своих продуктов. CeeBot представляет множество современных концепций, используемых в наиболее популярных сегодня средах, таких как C++, C# или Java.
 
-#### Java
+### Java
 * https://robocode.sourceforge.io/ (en) - Robocode - это игра в жанре программирования, целью которой является разработка боевого робота-танка для сражения с другими танками на Java. Сражения роботов проходят в режиме реального времени и на экране.
 
-### Интерактивные справки
+## Интерактивные справки
 
 * https://explainshell.com/ (en) – Разбирает введённую консольную команду и описывает все её части
 * https://crontab.guru/ (en) – Помогает разобраться в настройке времени запуска команды в cron
@@ -170,7 +200,7 @@ https://returntrue.win/ (en) - Прикольный набор головоло�
 * https://www.jsv9000.app/ (en) – Визуализация выполнения цикла событий и стека вызовов, показана работа очереди и приоритет выполнения задач.
 * https://regex101.com/ (en) — Справочник по регулярным выражениям. Разбирает введённую регулярку и визуализирует, каков будет её вывод на тестовой строке. Поддерживается синтаксис PHP, JavaScript, Pyhton, Golang, Java 8 и C#.
 
-### Практика слепой печати
+## Практика слепой печати
 
 * https://www.ratatype.ua/ru/ (ru) - Хорошо структурированные курсы слепой печати на разных языках (включая итальянский, испанский, французский и украинский) и раскладках (azerty, dvorak, qwerty, йцукен). Есть игровой режим в духе DuoLingo.
 * https://monkeytype.com/ (en) - минималистичный тест на случайно генерирующихся абзацах на разных языках. Можно выбрать объем словаря (насколько редкие или частотные слова будут в абзаце), есть таблица лидеров по печати на английском
@@ -182,21 +212,3 @@ https://returntrue.win/ (en) - Прикольный набор головоло�
 * https://www.crazymonkeygames.com/QWERTY-Warriors-2.html (en) - Винтажный 2D-шутер. Можно добавлять свои наборы слов для тренировки.
 * https://zty.pe/ (en) - Браузерная игра с видом сверху от [phoboslab](https://phoboslab.org). Игровой процесс похож на классическую аркаду, где игроки побеждают врагов, набирая текст на клавиатуре. Чем меньше ошибок, тем выше оценка.
 * https://polytaipe.com/ (en) - Тренажёр слепой печати для 12 раскладок, включая ЙЦУКЕН, русскую фонетическую, Colemak, Colemak-DH, Dvorak, Workman и Graphite. Раскладка эмулируется прямо в браузере, поэтому менять системные настройки не нужно. Есть отдельный раздел по кириллице с разбором каждой буквы: где она находится и чем ЙЦУКЕН отличается от фонетической раскладки. Упражнения генерируются по вашим слабым клавишам и биграммам. Тренажёр бесплатный и без рекламы, интерфейс английский.
-##
-
-<p align="center">
-  <a href="https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=hexlet-assets">
-    <img src="https://raw.githubusercontent.com/Hexlet/assets/master/images/hexlet_logo.svg" alt="Hexlet Ltd. logo" height="128">
-  </a>
-</p>
-
-<h3 align="center">Hexlet</h3>
-
-<p align="center">
-  This repository is created and maintained by the team and the community of Hexlet, an educational project.
-  <br>
-  <a href="https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=hexlet-assets"><strong>Read more about Hexlet »</strong></a>
-  <br>
-  <br>
-  See most active contributors on <a href="https://friends.hexlet.io/">hexlet-friends</a>
-</p>
