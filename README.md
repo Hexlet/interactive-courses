@@ -172,6 +172,8 @@
 
 * https://dbquacks.com/ (en) – DBQuacks - игра-туториал по SQL c уточками.
 
+* https://koddo.ru/games/sql-detective (ru) – SQL-детектив: браузерная игра-расследование. Улики лежат в восьми таблицах PostgreSQL, пишешь семь запросов и находишь заказчика кражи. Без регистрации, 30–60 минут.
+
 ### Регулярные выражения
 
 * https://www.therobinlord.com/projects/slash-escape (en) – текстовая обучающая игра по regex выражениям.
