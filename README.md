@@ -158,6 +158,8 @@
 
 * https://dbquacks.com/ (en) – DBQuacks - игра-туториал по SQL c уточками.
 
+* https://sqlmaxx.com/sql-games/sql-block-game/ (en) – SQL Block Game: карточки с задачами падают в колодец, и нужно успеть написать SQL-запрос, который отвечает на задачу, пока карточка не упала. Запросы выполняет настоящий PostgreSQL прямо в браузере.
+
 ### Регулярные выражения
 
 * https://www.therobinlord.com/projects/slash-escape (en) – текстовая обучающая игра по regex выражениям.
